@@ -27,7 +27,7 @@ form.addEventListener('submit', async (e) => {
   }
 
   // ⚠️ Sustituye por tu endpoint real de Formspree
-  const ENDPOINT = 'https://formspree.io/f/TU_ID_FORMSPREE';
+  const ENDPOINT = 'https://formspree.io/f/mjyyyyeb';
 
   try {
     const res = await fetch(ENDPOINT, {
